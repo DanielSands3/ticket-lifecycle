@@ -6,9 +6,7 @@
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -30,25 +28,22 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="263" alt="image" src="https://github.com/user-attachments/assets/16011f24-ecfa-4f58-a15e-537b72ed2107" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The ticket life-cycle begins with the end user. Here they can create a ticket adressing an issue or concern they would like to be assisted with. For example, Karen is noting she can't access the online banking site. Karen submits the ticket and the issue will now be handed over to the corresponding team.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/1b97d482-8493-484c-9c3c-a8c04467b713" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+Here, the ticket is assigned to Helpdesk Agent John by default. John makes note of the issue and elaborates further before assigning the ticket to Jane, a designated member of the Online Banking Team.</p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="364" alt="image" src="https://github.com/user-attachments/assets/40aaefb7-fc90-4b80-b797-724670584c74" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Here, Jane responds to the end user updating them and keeping note of possible solutions. After further investigation Jane concludes the root cause of the issue is due to a software update, she uninstalls the update, fixes the system and notifies the end user that a solution has been reached. The end user is now able to access the Online Banking Portal.   <br />

@@ -39,7 +39,7 @@ The ticket life-cycle begins with the end user. Here they can create a ticket ad
 <img width="446" alt="image" src="https://github.com/user-attachments/assets/1b97d482-8493-484c-9c3c-a8c04467b713" />
 </p>
 <p>
-Here, the ticket is assigned to Helpdesk Agent John by default. John makes note of the issue and elaborates further before assigning the ticket to Jane, a designated member of the Online Banking Team.</p>
+Here, the ticket is assigned to Helpdesk Agent John by default. John makes note of the issue and determines an SLA of Sev-A before assigning the ticket to Jane, a designated member of the Online Banking Team.</p>
 <br />
 
 <p>
